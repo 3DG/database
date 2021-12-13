@@ -1,4 +1,4 @@
 <?php
-  header("application/json");
+  header("Content-Type: application/json");
   echo "{\"Wip\":\"Please check again later!\"}";
 ?>
