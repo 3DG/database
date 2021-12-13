@@ -37,7 +37,7 @@
 			animation-duration:3s;
 			animation-iteration-count:infinite;
 			animation-timing-function: linear;
-			padding: 35vh 0px;
+			padding: 35.5vh 0px;
 			background-image:url(./checker.png);
 			background-size:120px;
 			font-size:35px;
