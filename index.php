@@ -40,10 +40,10 @@
 			padding: 35.5vh 0px;
 			background-image:url(./checker.png);
 			background-size:120px;
-			font-size:35px;
+			font-size:4vh;
 		}
 		#top h1 {
-			font-size:150px;
+			font-size:15vh;
 		}
 	</style>
 </head>
