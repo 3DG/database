@@ -1,7 +1,8 @@
-<html><head>
+<html>
+    <head>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&amp;display=swap" rel="stylesheet"> 
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&amp;display=swap" rel="stylesheet"> 
 	<title>Velator+</title>
 	<style id="root">
 			:root {
@@ -46,12 +47,14 @@
 			font-size:15vh;
 		}
 	</style>
-</head>
-<body>
+    </head>
+    <body>
 	<div id="top" align="center">
-	<h1>Velator+</h1>
-	<p>Work in progress!</p>
-	<p>Completion goal: <b>December 23, 2021</b></p>
+		<h1>Velator+</h1>
+		<p>Work in progress!</p>
+		<p>Completion goal: <b>December 23, 2021*</b></p>
+		<h5>*: Date may be delayed if the goal does not seem to be reachable in the future.</h5>
 	</div>
 
-</body></html>
+    </body>
+</html>
