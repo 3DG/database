@@ -46,6 +46,9 @@
 		#top h1 {
 			font-size:15vh;
 		}
+		#top h5 {
+		    font-size:1.5vh;
+		}
 	</style>
     </head>
     <body>
