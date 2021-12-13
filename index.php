@@ -1,13 +1,13 @@
-<head>
+<html><head>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&amp;display=swap" rel="stylesheet"> 
 	<title>Velator+</title>
 	<style id="root">
-		:root {
-			--scroll:0px;
-		}
-	</style>
+			:root {
+				--scroll:0px;
+			}
+		</style>
 	<script>
 		document.addEventListener("scroll", function() {
 		document.getElementById("root").innerHTML = `
@@ -37,7 +37,7 @@
 			animation-duration:3s;
 			animation-iteration-count:infinite;
 			animation-timing-function: linear;
-			padding: 17.75% 0px;
+			padding: 35vh 0px;
 			background-image:url(./checker.png);
 			background-size:120px;
 			font-size:35px;
@@ -53,4 +53,5 @@
 	<p>Work in progress!</p>
 	<p>Completion goal: <b>December 23, 2021</b></p>
 	</div>
-</body>
+
+</body></html>
