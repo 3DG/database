@@ -55,7 +55,7 @@
 	<div id="top" align="center">
 		<h1>Velator+</h1>
 		<p>Work in progress!</p>
-		<p>Completion goal: <b>December 23, 2021*</b></p>
+		<p>Completion goal: <b>December 25, 2021*</b></p>
 		<h5>*: Date may be delayed if the goal does not seem to be reachable in the future.</h5>
 	</div>
 
